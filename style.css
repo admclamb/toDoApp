@@ -1,0 +1,8 @@
+input {
+  width: 60rem;
+}
+
+#task-container {
+  width: 60rem;
+  padding: 0;
+}
